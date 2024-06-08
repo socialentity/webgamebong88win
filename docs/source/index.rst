@@ -1,22 +1,24 @@
-Welcome to Lumache's documentation!
+Bong88: Lịch sử và Nguồn gốc
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Bong88, một nhà cái hàng đầu trong ngành cá cược trực tuyến, có nguồn gốc từ Philippines vào năm 2008. Được thành lập bởi một nhóm chuyên gia trong lĩnh vực công nghệ và cá cược, Bong88 nhanh chóng khẳng định vị thế của mình trên thị trường Châu Á và vươn tầm quốc tế. Với những cải tiến liên tục và dịch vụ khách hàng vượt trội, Bong88 đã trở thành một sự lựa chọn uy tín cho những người đam mê cá cược trên toàn cầu.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Bong88: Không chỉ là một nhà cái, mà là một thương hiệu
 
-.. note::
+Bong88 không chỉ dừng lại là một nhà cái cung cấp dịch vụ cá cược. Đó còn là một thương hiệu được công nhận rộng rãi, đại diện cho sự đổi mới, công bằng và giải trí. Với các tính năng tiên tiến, tỷ lệ cược cạnh tranh và hệ thống bảo mật tiên tiến, Bong88 mang đến cho người chơi một trải nghiệm cá cược an toàn, đáng tin cậy và thú vị. Đội ngũ chăm sóc khách hàng chuyên nghiệp của Bong88 luôn sẵn sàng hỗ trợ 24/7 để đảm bảo sự hài lòng của khách hàng.
 
-   This project is under active development.
+Thông tin liên lạc:
 
-Contents
---------
+Điện thoại: +84668269516
 
-.. toctree::
+Email: bong88@webgamebong88.win
 
-   usage
-   api
+Địa chỉ: 42 Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, HCM
+
+Website: https://webgamebong88.win/
+
+Content Writer: Bình Cooper
+
+Author: https://webgamebong88.win/tranhienbong88/
+
+Vimeo: https://vimeo.com/bong88webwin/
